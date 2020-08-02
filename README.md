@@ -4,13 +4,13 @@
 
 In this "Let's Code React Native" series, we are mostly going to show you how we develop the UI/UX based on some certain design from scratch. In addition to that, we might also consider making videos to talk about the tips and tricks for React Native as well.
 
-Be sure to subscribe to our YouTube channel and star this repo so that you won't miss a think!
+Be sure to subscribe to our YouTube channel and star this repo so that you won't miss a thing!
 
 ## Table of Contents
 
-| Code | Project | Preview | No. of Screens |
-| ------ | ------ | ------ | ------ |
-| LCRN01 | [Travel Onboarding Screen](https://youtu.be/1XP28xVToho) | <img src="https://assets.materialup.com/uploads/64d8b287-3952-49d9-b279-463414ac53b9/preview.png" width="120" /> | 2 |
+| Code | Project | Preview | Inspiration | No. of Screens |
+| ------ | ------ | ------ | ------ | ------ |
+| LCRN01 | [Travel Onboarding Screen](https://youtu.be/1XP28xVToho) | <img src="https://i.ibb.co/pPNyYFP/preview.png" width="120" /> | [View](https://www.uplabs.com/posts/splash-screen-mobile-ui-5) | 1 |
 
 ## Contributors
 
