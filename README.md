@@ -9,7 +9,7 @@ Be sure to subscribe to our YouTube channel and star this repo so that you won't
 ## Table of Contents
 
 | Code | Project | Preview | No. of Screens |
-| ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | LCRN01 | [Travel Onboarding Screen](https://youtu.be/1XP28xVToho) | <img src="https://assets.materialup.com/uploads/64d8b287-3952-49d9-b279-463414ac53b9/preview.png" width="120" /> | 2 |
 
 ## Contributors
