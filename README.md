@@ -15,6 +15,7 @@ Be sure to subscribe to our YouTube channel and star this repo so that you won't
 | LCRN03 | [Trip Booking App](https://youtu.be/iVT7DRw2e7g) | <img src="https://static.dribbble.com/users/2232922/screenshots/13988973/media/ddba1ee5e948bd07a87136b7bdde48b9.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/13988973-Digitalz-Ticket) | 3 |
 | LCRN04 | [Furniture Store App](https://youtu.be/9E2Ieyk2oBk) | <img src="https://static.dribbble.com/users/3012124/screenshots/14012921/media/4f562581ed706087c2ae09be249a9cbe.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14012921-Furniture-Store-App) | 2 |
 | LCRN05 | [Nike Store App](https://youtu.be/R7qK1KKX0rE) | <img src="https://cdn.dribbble.com/users/1138814/screenshots/14157511/media/725262fbabb8ac68b9cf61cc782a427f.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14157511-XD-Challenge-003-Scroll) | 1 |
+| LCRN06 | [Book Store App](https://youtu.be/PEI38Pa8ZYM) | <img src="https://cdn.dribbble.com/users/803221/screenshots/14118636/media/230da812c084a283acd15f7425106ae2.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14118636-Book-Store-App) | 2 |
 
 ## Contributors
 
