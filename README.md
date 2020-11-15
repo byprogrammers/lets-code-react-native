@@ -16,6 +16,7 @@ Be sure to subscribe to our YouTube channel and star this repo so that you won't
 | LCRN04 | [Furniture Store App](https://youtu.be/9E2Ieyk2oBk) | <img src="https://static.dribbble.com/users/3012124/screenshots/14012921/media/4f562581ed706087c2ae09be249a9cbe.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14012921-Furniture-Store-App) | 2 |
 | LCRN05 | [Nike Store App](https://youtu.be/R7qK1KKX0rE) | <img src="https://cdn.dribbble.com/users/1138814/screenshots/14157511/media/725262fbabb8ac68b9cf61cc782a427f.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14157511-XD-Challenge-003-Scroll) | 1 |
 | LCRN06 | [Book Store App](https://youtu.be/PEI38Pa8ZYM) | <img src="https://cdn.dribbble.com/users/803221/screenshots/14118636/media/230da812c084a283acd15f7425106ae2.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/14118636-Book-Store-App) | 2 |
+| LCRN07 | [Expense Tracker App](https://youtu.be/uBcpWOQqbAQ) | <img src="https://cdn.dribbble.com/users/2141764/screenshots/6037420/money_tracker_app.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/6037420-Expense-Tracker-App) | 1 |
 
 ## Contributors
 
